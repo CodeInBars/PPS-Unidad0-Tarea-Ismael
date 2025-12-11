@@ -3,7 +3,7 @@
 # -------------------------------------------------------------
 # CONFIGURACIÓN GENERAL DEL SITIO
 # -------------------------------------------------------------
-site_name: Documentación de Calculadora Python # Define el título que aparecerá en la barra de navegación y en la etiqueta <title> del navegador.
+site_name: PPS-UNIDAD0-Tarea-PPS # Define el título que aparecerá en la barra de navegación y en la etiqueta <title> del navegador.
 
 # -------------------------------------------------------------
 # ESTRUCTURA DE NAVEGACIÓN (MENÚ)
@@ -12,8 +12,12 @@ site_name: Documentación de Calculadora Python # Define el título que aparecer
 nav:
   # El nombre de la sección en el menú: nombre_archivo.md
   - Home: index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
-  - Uso: guia_uso.md           # Segundo elemento del menú, enlaza con el archivo 'guia_uso.md'.
-  # Se pueden añadir subsecciones anidando listas:
+  - Git: git.md
+  - GitActions: gitactions.md
+  - GitPages: gitpages.md
+  - Docker: docker.md
+  - Conclusiones: conclusiones.md 
+# Se pueden añadir subsecciones anidando listas:
   # - Referencia: 
   #   - Funciones: referencia/funciones.md
   #   - Clases: referencia/clases.md
