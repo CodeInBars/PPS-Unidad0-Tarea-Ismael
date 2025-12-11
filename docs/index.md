@@ -2,9 +2,9 @@
 
 **Índice**
 
-[GIT](git.md)
-[GitActions](gitActions.md)
-[GitPages](gitPages.md)
-[Docker](docker.md)
-[Conclusiones](conclusiones.md)
+- [GIT](git.md)
+- [GitActions](gitActions.md)
+- [GitPages](gitPages.md)
+- [Docker](docker.md)
+- [Conclusiones](conclusiones.md)
 
