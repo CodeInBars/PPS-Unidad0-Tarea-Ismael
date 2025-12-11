@@ -1,4 +1,4 @@
-#GIT
+# GIT
 ---
 
 En esta ocasión realicé la creación del repositorio a través de la interfaz de github
@@ -6,6 +6,6 @@ En esta ocasión realicé la creación del repositorio a través de la interfaz 
 
 Aunque toda la estructura fue creada a través de comandos para posteriormente hacer un commit y subirlo a la rama main
 
-![Estructura Inicial en base al anterior ejercicio](img/CAP3.png)
+![Estructura Inicial en base al anterior ejercicio](img/CAP3_Creacion.png)
 ![Estructura inical parte 2](img/CAP4.png)
 
