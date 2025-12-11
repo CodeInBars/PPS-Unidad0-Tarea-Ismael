@@ -13,10 +13,10 @@ nav:
   # El nombre de la sección en el menú: nombre_archivo.md
   - Home: index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
   - Git: git.md
-  - GitActions: gitactions.md
-  - GitPages: gitpages.md
+  - GitActions: gitActions.md
+  - GitPages: gitPages.md
   - Docker: docker.md
-  - Conclusiones: conclusiones.md 
+  - Conclusiones: conclusiones.md
 # Se pueden añadir subsecciones anidando listas:
   # - Referencia: 
   #   - Funciones: referencia/funciones.md
