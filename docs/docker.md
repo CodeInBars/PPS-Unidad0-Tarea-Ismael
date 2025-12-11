@@ -22,3 +22,6 @@ services:
       - .:/usr/share/nginx/html:ro
     restart: unless-stopped
 ```
+
+El resultado final después de levantar el docker y acceder a la web por el puerto deseado fue el siguiente:
+![Resultado](img/CAP14.png)

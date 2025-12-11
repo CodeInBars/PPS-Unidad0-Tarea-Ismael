@@ -8,4 +8,4 @@ Aunque toda la estructura fue creada a través de comandos para posteriormente h
 
 ![Estructura Inicial en base al anterior ejercicio](img/CAP3_Creacion.png)
 ![Estructura inical parte 2](img/CAP4.png)
-
+![Subida al repo](img/CAP7.png)
